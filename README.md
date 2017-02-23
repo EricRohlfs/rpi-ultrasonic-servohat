@@ -4,6 +4,8 @@ Resources explaining how to use the ultrasonic sensor with the 16 channel servo 
 
 ## Board Mode Setup Info
 
+Adapted from https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/
+
 ```Python
   #set GPIO Pins
   GPIO_TRIGGER = 40
@@ -16,5 +18,8 @@ Resources explaining how to use the ultrasonic sensor with the 16 channel servo 
  
 ## Using GPIO Zero Library Setup
 
-  ultrasonic = DistanceSensor(echo=20, trigger=21)
+Complete example: https://www.raspberrypi.org/learning/physical-computing-with-python/distance/
 
+```Python
+  ultrasonic = DistanceSensor(echo=20, trigger=21)
+``` 
