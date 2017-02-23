@@ -1,5 +1,5 @@
 # rpi-ultrasonic-servohat
-Resources explaining how to use the ultrasonic sensor with the 16 channel servo hat for the raspberry pi.
+Resources explaining one way to connect the ultrasonic sensor (HC-SR04) with the 16 channel servo hat for the raspberry pi.
 
 ![Ultrasonic Sensor hard wired to Servo HAT](pi-hat-with-ultrasonic-sensor.png?raw=true)
 
