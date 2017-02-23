@@ -1,7 +1,7 @@
 # rpi-ultrasonic-servohat
 Resources explaining how to use the ultrasonic sensor with the 16 channel servo hat for the raspberry pi.
 
-![Ultrasonic Sensor hard wired to Servo HAT](https://github.com/EricRohlfs/rpi-ultrasonic-servohat/raw/master/rpi-ultrasonic-servohat/pi-hat-with-ultrasonic-sensor.png)
+![Ultrasonic Sensor hard wired to Servo HAT](pi-hat-with-ultrasonic-sensor.png?raw=true)
 
 
 ## Board Mode Setup Info
