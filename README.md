@@ -7,6 +7,10 @@ I could not draw the exact implementation shown in the video, since the resistor
 
 ![Ultrasonic Sensor hard wired to Servo HAT](pi-hat-with-ultrasonic-sensor.png?raw=true)
 
+![Top View](ultrasonic-pi-hat-top-view.png?raw=true)
+
+![Side View](ultrasonic-pi-hat-side-view.png?raw=true)
+
 
 ## Board Mode Setup Info
 
