@@ -22,7 +22,7 @@ Adapted from https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc
   GPIO.setup(GPIO_ECHO, GPIO.IN)
 ```  
  
-## Using GPIO Zero Library Setup
+## GPIO Zero Library Setup Info
 
 Complete example: https://www.raspberrypi.org/learning/physical-computing-with-python/distance/
 
